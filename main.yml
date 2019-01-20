@@ -1,4 +1,4 @@
-- hosts: all
+- hosts: tower
   become: yes
   vars_files:
     - 'tower-vars.yml'
