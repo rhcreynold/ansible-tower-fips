@@ -1,0 +1,6 @@
+#RHN Info
+vault_rhn_user: rhnuser
+vault_rhn_pwd: redhat
+vault_rhn_pool_name: Subscription Pool Name
+#Tower
+vault_tower_pwd: redhat

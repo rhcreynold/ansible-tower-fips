@@ -1,0 +1,14 @@
+disconnected: false
+#domain: hattrick.lab
+use_public_dns: true
+dns_server_public: 8.8.8.8
+register_rhn: true
+tower:
+  repos:
+    - rhel-7-server-rpms
+    - rhel-7-server-extras-rpms
+    - rhel-7-server-ansible-2.6-rpms
+rhn_user: "{{ vault_rhn_user }}"
+rhn_pass: "{{ vault_rhn_pwd }}"
+rhn_pool: "{{ vault_rhn_pool_name }}"
+tower_pw: "{{ vault_tower_pwd }}"
