@@ -50,6 +50,8 @@ For RHEL 7:
 - rhel-7-server-extras-rpms
 - rhel-7-server-ansible-2.6-rpms
 
+Some of the roles come from: https://github.com/redhat-kejones/hattrick
+
 
 Example Playbook
 ----------------
