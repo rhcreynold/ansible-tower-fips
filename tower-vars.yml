@@ -1,5 +1,4 @@
 disconnected: false
-#domain: hattrick.lab
 use_public_dns: true
 dns_server_public: 8.8.8.8
 register_rhn: true
