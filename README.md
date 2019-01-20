@@ -5,7 +5,7 @@ An Ansible Playbook(s) to install Ansible Tower 3.4+ on a RHEL host with FIPS en
 
 Requirements
 ------------
-Valid RHEL and Ansible Tower subscription
+Valid RHEL and Ansible Tower subscription.  You will need a base RHLE 7 system with ssh connectivity.  
 
 Role Variables
 --------------
